@@ -7,8 +7,9 @@
 
 #import <UIKit/UIKit.h>
 
+@interface ObjcModel : NSObject
+@end
+
 @interface ViewController : UIViewController
-
-
 @end
 
